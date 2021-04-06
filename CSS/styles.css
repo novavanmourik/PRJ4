@@ -1,16 +1,23 @@
 @charset "utf-8"
 
 /*basic styles for everywhere */
-#intoduction { background-color: : #ffcccc
+body { background-color:
+    color: #8A48FF; 
+	}
+h1 { text-align: center; }
+
+.container {padding: 20px; }
+
+
+#intoduction { background-color: color: #ffcccc;
   }
-#header { background-color: : #ffcccc 
-}
 
 .cats-container {border: 1px solid #fccccc;
                 border-radius: 10px; 
-            }
+  }
+.catstext {background-color: color: #122237;
+  }
 
-.persianpic {align-content: center;
-			padding-top: 12px; 
-			padding-bottom: 5px; 
-			width:220px;}
+.persianpic { align-content: center;
+			 width:220px;
+	}
