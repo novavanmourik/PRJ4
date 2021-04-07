@@ -8,13 +8,14 @@ h1 { text-align: center; }
 .container {padding: 20px; }
 
 
-#intoduction { background-color: color: #ffcccc;
+#intoduction { background-color: #ffc0cb;
   }
 
 .cats-container {border: 1px solid #fccccc;
                 border-radius: 10px; 
   }
-.catstext {background-color: color: #00A1EF;
+.catstext {background-color: #fccccc;
+		 color: #00A1EF;
   }
 
 #persianpic { align-content: center;
