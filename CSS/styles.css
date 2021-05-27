@@ -24,7 +24,7 @@ h4 { text-transform: uppercase;
   }
 
 .cats-container {border: 8px solid #fccccc;
-                border-radius: 10px; 
+                border-radius: 50px; 
   }
 .catstext {background-color: #fccccc;
   }
@@ -40,7 +40,7 @@ h4 { text-transform: uppercase;
 
 .navbar .nav-item {padding: 10px 10px 10px 70px;}
 
-.navbar .nav-link {font-size: 15px;}
+.navbar .nav-link {font-size: 20px;}
 
 nav .navbar-nav li a{
   color: #ffcccc !important;
