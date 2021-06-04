@@ -20,8 +20,14 @@ h4 { text-transform: uppercase;
 .container {padding: 20px; }
 
 
-#intoduction { background-color: #ffc0cb;
+#intoduction { background-color: #ffcccc;
   }
+
+#a {text-align: center;
+	background-color: #ffc0cb
+}
+
+#b {text-align: center;}
 
 .cats-container {border: 8px solid #fccccc;
                 border-radius: 50px; 
@@ -41,6 +47,10 @@ h4 { text-transform: uppercase;
 .navbar .nav-item {padding: 10px 10px 10px 70px;}
 
 .navbar .nav-link {font-size: 20px;}
+
+.jumbotron { 
+	color: #ffc0cb;
+}
 
 nav .navbar-nav li a{
   color: #ffcccc !important;
